@@ -10,8 +10,8 @@ header {
 }
 
 #titolo {
-    width: 150px;
-    padding-top: 50px;
+    width: 200px;
+    padding-top: 40px;
     padding-left: 5px;
 }
 
@@ -30,4 +30,25 @@ h1 {
 
 #cl {
     color: rgb(79, 148, 204);
+}
+
+.images {
+    height: 500px;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 20px;
+}
+
+.p-color {
+    background-color: yellow;
+}
+
+.un-list {
+    padding-left: ;
 }
