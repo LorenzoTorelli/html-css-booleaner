@@ -53,12 +53,16 @@ p {
 thead {
     background-color: RGB(32,169,229);
 }
+
 table{
     text-align: left;
+    font-size: 20px;
 }
+
 thead {
     color: white;
 }
+
 #terza-colonna {
     width: 60%;
 }
