@@ -1,0 +1,84 @@
+
+body {
+    width: 100%;
+    margin: auto;
+}
+main { 
+    width: 80%;
+    margin: auto;
+
+}
+header {
+    background-color: RGB(78,160,255);
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+}
+
+#titolo {
+    width: 200px;
+    padding-top: 40px;
+    padding-left: 5px;
+}
+
+.sezione{
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 70px;
+    margin-bottom: 0;
+}
+
+.grig {
+    color: rgb(170, 168, 168);
+    margin-top: 0;
+}
+
+#cl {
+    color: rgb(79, 148, 204);
+}
+
+.images {
+    height: 500px;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 20px;
+}
+
+.p-color {
+    background-color: yellow;
+}
+
+.ul-list {
+    padding-left: 15px;
+ 
+}
+thead {
+    background-color: RGB(32,169,229);
+    color: white;
+}
+
+table{
+    text-align: left;
+    font-size: 20px;
+}
+
+#terza-colonna {
+    width: 60%;
+}
+
+.riga-scura {
+    background-color: RGB(177,229,242);
+}
+
+h4 {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+}
