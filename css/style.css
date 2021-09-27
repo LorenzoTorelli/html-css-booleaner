@@ -50,17 +50,18 @@ p {
     background-color: yellow;
 }
 
+.ul-list {
+    padding-left: 15px;
+ 
+}
 thead {
     background-color: RGB(32,169,229);
+    color: white;
 }
 
 table{
     text-align: left;
     font-size: 20px;
-}
-
-thead {
-    color: white;
 }
 
 #terza-colonna {
