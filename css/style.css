@@ -50,3 +50,19 @@ p {
     background-color: yellow;
 }
 
+thead {
+    background-color: RGB(32,169,229);
+}
+table{
+    text-align: left;
+}
+thead {
+    color: white;
+}
+#terza-colonna {
+    width: 60%;
+}
+
+.riga-scura {
+    background-color: RGB(177,229,242);
+}
