@@ -15,8 +15,9 @@ header {
     padding-left: 5px;
 }
 
-main{
+.sezione{
     padding-left: 10px;
+    margin-bottom: 20px;
 }
 h1 {
     font-size: 70px;
@@ -49,6 +50,3 @@ p {
     background-color: yellow;
 }
 
-.un-list {
-    padding-left: ;
-}
