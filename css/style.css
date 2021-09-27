@@ -1,3 +1,11 @@
-#cornice {
-    background-color: lightblue;
+header {
+    background-color: RGB(78,160,255);
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+}
+
+#titolo {
+    width: 150px;
+    padding-top: 50px;
+    padding-left: 5px;
 }
